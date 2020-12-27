@@ -1,0 +1,11 @@
+ID;Patient;BI-RADS;BI-RADS given;Preference;Correct;Experience;Positives;Negatives
+3;97b1bd32-5c13-4715-9506-a172267990c9;2;0;rlc;;Junior;;
+2;27079376-03e2-4762-aed4-7300c827850c;4;4;bbx;TRUE;Intern;TRUE;
+11;70a15c33-e38e-4270-b37f-a8aa1dff6fdf;2;2;bbx;TRUE;Senior;;TRUE
+15;89417be6-8e7a-428d-ac6f-ca73a7c5e029;2;0;bbx;;Junior;;
+5;71a90290-c9b6-42be-ae8b-d3d90915be52;4;3;rlc;FALSE;Intern;FALSE;
+8;97b1bd32-5c13-4715-9506-a172267990c9;2;3;bbx;FALSE;Senior;;TRUE
+37;4adaa41e-b31c-4240-bdc5-9879da0769f9;2;2;bbx;TRUE;Intern;;TRUE
+33;27079376-03e2-4762-aed4-7300c827850c;4;4;bbx;TRUE;Intern;TRUE;
+6;70a15c33-e38e-4270-b37f-a8aa1dff6fdf;2;2;bbx;TRUE;Intern;;TRUE
+44;89417be6-8e7a-428d-ac6f-ca73a7c5e029;2;2;bbx;TRUE;Intern;;TRUE
